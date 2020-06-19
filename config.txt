@@ -1,3 +1,5 @@
+open settings
+open default
 "editor.fontSize": 18,
 "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
 "editor.wordWrap": "on",
