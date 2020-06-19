@@ -1,0 +1,64 @@
+"editor.fontSize": 18,
+"editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+"editor.wordWrap": "on",
+"editor.lineHeight": 30,
+"editor.cursorBlinking": "smooth",
+"explorer.openEditors.visible": 0,
+
+"workbench.colorCustomizations": {
+"statusBar.background": "#333",
+"statusBar.debuggingBackground": "#263238",
+"statusBar.noFolderBackground": "#333"
+},
+
+"editor.minimap.enabled": false,
+"workbench.activityBar.visible": false
+
+"explorer.sortOrder": "type",   
+"files.trimFinalNewlines": true
+"editor.renderIndentGuides": false
+"workbench.editor.highlightModifiedTabs": true
+
+"files.autoSave": "onFocusChange"
+"editor.formatOnSave": true,
+
+auto rename tag ( Jun Han ) 
+prettier ( Esben Petersen ) 
+Bracket Pair Colorizer	(CoenraadS)
+paste-and-indent  (q3rry) 
+Path Intellisense (Christian Kohler) 
+Javascript ES6 Code snippets (Charalampos karypidis) 
+Visual Studio Intellicode 
+Indent Rainbow 
+Import Cost 
+Live server
+
+{
+    "explorer.openEditors.visible": 0,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    // "workbench.activityBar.visible": false,
+    "editor.lineHeight": 30,
+    "editor.fontWeight": "normal",
+    "editor.formatOnSave": true,
+    "editor.minimap.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#333",
+        "statusBar.debuggingBackground": "#263238",
+        "statusBar.noFolderBackground": "#333"
+    },
+    "editor.fontSize": 16,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "css.validate": false,
+    "editor.wordWrap": "on",
+    "explorer.sortOrder": "type",
+    "editor.cursorBlinking": "smooth",
+    "git.ignoreMissingGitWarning": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.wordWrapColumn": 250,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    // "files.trimFinalNewlines": true
+    // "editor.fontLigatures": true,
+}
+/* Extensions 
+*/
